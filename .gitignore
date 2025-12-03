@@ -1,0 +1,18 @@
+# Data
+data/
+dataset/
+test_predictions/
+results/
+
+# Models
+checkpoints/
+*.pth
+*.pt
+
+# Python/System
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+venv/
