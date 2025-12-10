@@ -62,12 +62,12 @@ run inference.
 1.  Place your RGB & DEM GeoTIFFs into the `data/` folder.\
 2.  Edit `preprocess_data.py` and update the `DATA_SOURCES` list with
     your filenames.
-3.  Run the patch generator:
 
 Or you can just run the following: 
 ``` bash
-python preprocess_data.py
+python downloader.py
 ```
+3.  Run the patch generator:
 
 ``` bash
 python preprocess_data.py
