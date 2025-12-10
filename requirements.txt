@@ -6,3 +6,6 @@ rasterio
 Pillow
 tqdm
 matplotlib
+pystac_client
+rioxarray
+planetary_computer
